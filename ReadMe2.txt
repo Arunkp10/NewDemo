@@ -33,5 +33,7 @@ test2
 change in file 2
 this is a change for conflict demo
 
+this is new change from user 1 to demonstrate conflict and resolving it
+
 
 
